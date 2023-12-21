@@ -6,6 +6,7 @@ export default function Home() {
       <div>Hii, I'm starting soon</div>
       <div>Hii, I'll start soon </div>
       <div>Hii, I'm starting </div>
+      <div> Mark the Day i.e. 22nd Decemeber </div>
     </main>
   )
 }
